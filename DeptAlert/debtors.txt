@@ -1,0 +1,3 @@
+{"FirstName":"Kylian","LastName":"Brousmiche","Nickname":"Hottos","EmailAddress":"kylian@gmail.com","FullName":"Kylian Brousmiche"}
+{"FirstName":"Remi","LastName":"Streignard","Nickname":"Azhorr","EmailAddress":"rem.streign@gmail.com","FullName":"Remi Streignard"}
+{"FirstName":"didier","LastName":"brousmiche","Nickname":"Didg","EmailAddress":"d.brousmiche@gmail.com","FullName":"didier brousmiche"}

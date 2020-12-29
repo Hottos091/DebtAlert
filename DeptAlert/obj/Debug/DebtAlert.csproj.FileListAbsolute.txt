@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\obj\Debug\DebtAlert.csprojAssemblyReference.cache
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\obj\Debug\DeptAlert.Properties.Resources.resources
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\obj\Debug\DebtAlert.Views.DeleteDebtorView.resources
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\obj\Debug\DebtAlert.Views.WelcomeView.resources
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\obj\Debug\DebtAlert.csproj.GenerateResource.cache
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\obj\Debug\DeptAlert.exe
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\obj\Debug\DeptAlert.pdb
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\bin\Debug\DeptAlert.exe.config
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\bin\Debug\DeptAlert.exe
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\bin\Debug\DeptAlert.pdb
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\obj\Debug\DebtAlert.Views.AddPersonView.resources
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\obj\Debug\DebtAlert.Views.NewDebtView.resources
+C:\Users\Utilisateur\OneDrive\Projets\C#\DeptAlert\DeptAlert\obj\Debug\DebtAlert.csproj.CopyComplete

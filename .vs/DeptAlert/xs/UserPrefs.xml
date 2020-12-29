@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C9BA9389-6E21-4E06-B3B6-F266B39A72DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeptAlert/Views/AddPersonView.cs">
+    <Files>
+      <File FileName="DeptAlert/Views/DeleteDebtorView.cs" Line="3" Column="29" />
+      <File FileName="DeptAlert/Models/Utils.cs" Line="22" Column="19" />
+      <File FileName="DeptAlert/Views/AddPersonView.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeptAlert" expanded="True">
+            <Node name="DeptAlert" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="AddPersonView.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DeptAlert PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
